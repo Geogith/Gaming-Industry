@@ -2,6 +2,7 @@
 Homework 4 
 
 Three observable trends in the data:
+
 1.)	Males are the dominant players of the Heroes of Pymoli.  Males total purchases are a whopping 83% ($1967) of sales compared to females and others/non-disclosed.
 
 2.)	Demographically, males ages 20 - 23 years old play the game more and therefore spend more of all the age groups. They also have the highest total purchase price of other age groups.
