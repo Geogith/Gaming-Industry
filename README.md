@@ -1,6 +1,5 @@
 # New-Pandas-Challenge
-problems with old
-
+Homework 4 
 
 Three observable trends in the data:
 1.)	Males are the dominant players of the Heroes of Pymoli.  Males total purchases are a whopping 83% ($1967) of sales compared to females and others/non-disclosed.
