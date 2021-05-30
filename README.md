@@ -4,6 +4,8 @@ The global gaming market generated $159.3 billion in revenue in 2020, according 
 
 The dataset provided was a CSV file created in Excel that required some manipulation and staging in order to use it in Pandas (an open source Python package). Pandas was select as a robust option for analysis because of its suitability for data analysis via its Series and DataFrame data structures, its multiple methods for convenient data filtering, and its variety of utilities to perform Input/Output operations in a seamless manner.  
 
+The code was writting in Jupyter Notebook.
+
 # Results
 
 Three observable trends in the data:
