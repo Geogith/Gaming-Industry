@@ -2,9 +2,9 @@
 
 The global gaming market generated $159.3 billion in revenue in 2020, according to Tom Wijman a Newzoo senior market analyst. This is a 9.3 percent year-over-year growth. According to Newzoo, it projects that the industry will surpass $200 billion in revenue in 2023! Gaming is becoming a huge profit center. For this reason, I analyzed the data for the fantasy game Heroes of Pymoli. As many others in its genre, the game is free-to-play, but players are encouraged by some gaming companies to purchase optional items to enhance their playing experience. My analysis generates a report that extracts hidden and meaningful insights based on the game's purchasing data. It also provides recommendations as to how the company could increase revenue based on demographics.
 
-The dataset provided was a CSV file created in Excel that required some manipulation and staging in order to use it in Pandas (an open source Python package). Pandas was select as a robust option for analysis because of its suitability for data analysis via its Series and DataFrame data structures, its multiple methods for convenient data filtering, and its variety of utilities to perform Input/Output operations in a seamless manner.  
+The dataset provided was a CSV file created in Excel and imported into Pandas (an open source Python package). Pandas was select as a robust option for analysis because of its suitability for data analysis via its Series and DataFrame data structures, its multiple methods for convenient data filtering, and its variety of utilities to perform Input/Output operations in a seamless manner.  
 
-The code was writting in Jupyter Notebook.
+The code was created in Jupyter Notebook, an open-source web application that allowed me to create live code, equations, visualizations and explanatory text. I can share computational documents which is a huge plus. Jupyter Notebook was also used because it is a powerful way to write and iterate Python code for data analysis. I can write lines of code and run them one at a time. If I needed to make a change, I could go back and make my edits and rerun the code again, all in the same window. 
 
 # Results
 
