@@ -1,5 +1,9 @@
-# New-Pandas-Challenge
-Homework 4 
+# Gaming Industry Analysis
+The global 
+According to a recent report by Newzoo senior market analyst Tom Wijman, the global gaming market will generate $159.3 billion in revenue in 2020. That would be 9.3 percent year-over-year growth. What's more, Newzoo projects the industry to surpass $200 billion in revenue in 2023
+
+ 
+# Results
 
 Three observable trends in the data:
 
