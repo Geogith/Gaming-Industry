@@ -1,7 +1,6 @@
 # Gaming Industry Analysis
-The global 
-According to a recent report by Newzoo senior market analyst Tom Wijman, the global gaming market will generate $159.3 billion in revenue in 2020. That would be 9.3 percent year-over-year growth. What's more, Newzoo projects the industry to surpass $200 billion in revenue in 2023
 
+The global gaming market generated $159.3 billion in revenue in 2020, according to Tom Wijman a Newzoo senior market analyst. This is a 9.3 percent year-over-year growth. According to Newzoo, it projects that the industry will surpass $200 billion in revenue in 2023! Gaming is becoming a huge profit center. For this reason, I analyzed the data for the fantasy game Heroes of Pymoli. As many others in its genre, the game is free-to-play, but players are encouraged by some gaming companies to purchase optional items to enhance their playing experience. My analysis generates a report that extracts hidden and meaningful insights based on the game's purchasing data. It also provides recommendations as to how the company could increase revenue based on demographics.
  
 # Results
 
