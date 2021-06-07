@@ -14,7 +14,8 @@ The analysis generated a report extracting actionable insights and recommendatio
 
 ![image](https://user-images.githubusercontent.com/67766966/120944318-78285e80-c6f9-11eb-8804-8eabc702d1d9.png)
 
-
 2.)	Demographically, males ages 20 - 23 years old play the game more and therefore spend more of all the age groups. They also have the highest total purchase price of any other age groups.
+
+
 3.)	In the future, males will probably be the main users of Heroes of Pymoli. However, one of the top 5 spenders is a 22 years old female (SN - Chamjask73), which falls in line demographically with the age group of 20 – 23 years old who enjoy playing the game. Current purchasing trends of dominantly male users could potentially be changed by the gaming industry, if a portion of their marketing strategy began to specifically market to 22 years old females. The industry could start marketing to females the three most popular and profitable items: Final Critic, Oathbreaker, Last Hope of the Breaking Storm, and Nirvana. These three items could specifically be marketed to females, given that the 22 years old female top spender is highly likely to have played and enjoyed these items.
 
